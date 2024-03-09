@@ -1,18 +1,13 @@
 import './App.css';
-import {Store } from './components/Store';
+import { Store } from './components/Store';
 
 function App() {
   return ( 
-    <div className="container-main">
-     
+    <div className="container-main"> 
     <div className="container">
- 
     <Store/>
-  
+  </div>
   </div> 
-  </div> 
-
-
   );
 }
 

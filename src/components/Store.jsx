@@ -35,8 +35,6 @@ const products = [{
   img: "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/5.jpg"
 }];
 
-
-
 export function Store() {
      
     const [view, setView] = useState('list');
